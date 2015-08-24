@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="title_text">Nanodegree App Portfolio</string>
+    <string name="project1">Popular Movies</string>
+    <string name="project2">Football Scores</string>
+    <string name="project3">Library</string>
+    <string name="project4">Build it Bigger</string>
+    <string name="project5">XYZ Reader</string>
+    <string name="project6">Capstone</string>
+    <string name="action_settings">Settings</string>
+</resources>
